@@ -21,5 +21,5 @@ WIP
 
 License
 -------
-This code is un public domain. 
+This code is in public domain. 
 A link to the this project would be appreciated in case you publish something based on the code or schematics herein available.
