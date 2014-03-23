@@ -2,7 +2,7 @@ Arducar
 =======
 A simple robot car made with Arduino. 
 
-This project was carried out during an [ITSAS](http://ehu.es/itsas) workshop in the [Facultad de Informñatica de San Sebastián](http://www.ehu.es/informatika-fakultatea).  
+This project was carried out during an [ITSAS](http://ehu.es/itsas) workshop in the [Facultad de Informática de San Sebastián](http://www.ehu.es/informatika-fakultatea).  
 
 Thanks to all the participants and the rest of the people who made this possible.  
 
