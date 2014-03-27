@@ -6,7 +6,7 @@ This project was carried out during an [ITSAS](http://ehu.es/itsas) workshop in 
 
 Thanks to all the participants and the rest of the people who made this possible.  
 
-![Arducar photo](http://inversebit.org/wp-content/uploads/2014/03/arducar01_red.png)
+![Arducar photo](arducar01_red.png)
 
 Short description + Components
 ------------------------------
@@ -18,7 +18,7 @@ This robot is powered by 8 AA (1'5V) batteries. 4 of them power the motors, thro
 
 Schematic
 ---------
-WIP
+![Schematic](arducar_schematic.png)
 
 License
 -------
