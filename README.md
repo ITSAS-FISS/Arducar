@@ -20,6 +20,8 @@ Schematic
 ---------
 ![Schematic](arducar_schematic.png)
 
+The schematic source is the arducar_schematic.fzz file. It can be opened with the [fritzing environment](http://fritzing.org/home/).
+
 License
 -------
 This code is in public domain. 
