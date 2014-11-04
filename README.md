@@ -8,7 +8,7 @@ Thanks to all the participants and the rest of the people who made this possible
 
 ![Arducar photo](arducar01_red.png)
 <br/>
-[Video: Preliminary version with remote control tablet Android](https://www.facebook.com/video.php?v=646924202010643&set=vb.631804706855926&type=2&theater)
+[Video: Preliminary version with remote control using an Android tablet](https://www.facebook.com/video.php?v=646924202010643&set=vb.631804706855926&type=2&theater)
 
 Short description + Components
 ------------------------------
